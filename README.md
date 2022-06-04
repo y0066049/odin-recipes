@@ -1,2 +1,3 @@
 # odin-recipes
-organizing projects like aportefolio
+organizing projects like aportefolio.
+i`ve learned : ...
