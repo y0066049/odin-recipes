@@ -6,5 +6,15 @@
       font-weight: bold;
   }
   .alert-text {
-    color: red;
+    color: blue;
   }
+#title1 {
+  background-color: red;
+  color: white;
+  font-weight: sans-serif;
+}
+#title2 {
+  color: blue;
+  font-size: 36px;
+  font-weight: verdana; 
+}
