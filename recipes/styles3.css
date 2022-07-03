@@ -1,4 +1,8 @@
 .unread,
+.read {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', Times, serif;
+}
 .unread {
     background-color: black;
     color: white;
@@ -8,7 +12,12 @@
     background-color: yellow;
 }
 
-.read {
-    font-size: 28px;
-    font-family: Helvetica, 'Times New Roman', Times, serif;
+.avatar.pro {
+    height: auto;
+    width: 300;
+
+}
+.avatar.neg {
+    height: 400px;
+    width: 200px;
 }
