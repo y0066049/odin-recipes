@@ -1,0 +1,24 @@
+
+p, 
+ul {
+    width: 350px;
+    height: 150px;
+    padding: 25px;
+    margin: 10px;
+    border: 5px solid black;
+}
+
+span,
+li {
+  border: 2px solid blue;
+}
+
+ul {
+  display: inline-flex;
+  list-style: none;
+  padding: 0;
+} 
+
+.inline {
+  display: inline;
+}
